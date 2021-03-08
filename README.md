@@ -1,5 +1,10 @@
 # Mamba 0.0.1/X1
 
+TO SIGN IN:
+To start press #
+Username: trial
+password: trial
+
 MambaX1 is a application installer. 
 
 1. Download Zip
