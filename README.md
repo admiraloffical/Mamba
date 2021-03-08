@@ -7,4 +7,4 @@ MambaX1 is a application installer.
 3. Find the Python.exe to download if you don't have it.
 4. Click on mamba.py to start.
 
-Commands:
+Commands: com.txt
